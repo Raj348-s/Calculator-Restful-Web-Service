@@ -92,3 +92,12 @@ Publication details:
 - Source: https://www.researchgate.net/publication/365371923
   
 # Topic Name [Shah Rukh Khan-2170583]
+Title: Resource Provisioning and Resource Allocation in Cloud Computing Environment: A Review
+
+Authors: Ritu Aggarwal, Shikha Jain, and Ritu Sibal
+
+Affiliations: Department of Computer Science and Engineering, Maharaja Surajmal Institute of Technology, New Delhi, India
+
+Abstract: Cloud computing has emerged as a popular paradigm for delivering computing resources as a service over the internet. Resource provisioning and resource allocation are two important aspects of cloud computing that have a significant impact on the performance and cost of cloud services. In this paper, we provide a comprehensive review of the existing literature on resource provisioning and resource allocation in cloud computing. We discuss various policies for resource provisioning and the related issues in the current cloud computing environment. We also examine the impact of Service Level Agreements (SLAs) on resource allocation and the role of virtualization and virtual machines (VMs) in cloud computing resource provisioning. Finally, we identify some open research challenges in this area and suggest some future directions for research.
+
+Publication Details: International Journal of Scientific Research in Computer Science, Engineering and Information Technology (IJSRCSEIT), Volume 3, Issue 3, March-April 2018, Pages 1040-1049. Available online at http://ijsrcseit.com/CSEIT1833129.
