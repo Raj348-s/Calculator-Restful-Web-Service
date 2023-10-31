@@ -4,7 +4,6 @@ Authors: Murat Ozer, Said Varlioglu, Bilal Gonen, Victor Adewopo, Nelly Elsayed,
 Affiliations: School of Information Technology, University of Cincinnati, Cincinnati, Ohio, USA (Ozer, Varlioglu, Gonen, Adewopo, Elsayed); Security Engineer, San Jose, California, USA (Zengin)
 Abstract: Many organizations migrate their on-premise infrastructure to the cloud for its known advantages such as low cost and flexibility. However, cloud computing also introduces new challenges for incident response due to the distributed nature of cloud systems and the limited knowledge of cloud computing infrastructure. In this study, we explore the challenges and opportunities of incident response in cloud computing and suggest additional steps to be added to the traditional incident response plan in the context of cloud computing.
 Publication details: This study was published in the Proceedings of the 2019 IEEE International Conference on Intelligence and Security Informatics (ISI), held in Shenzhen, China, on November 23-25, 2019.
-# Topic Name [Shah Rukh Khan-2170583]
 
 # Topic Name [Raj Sorathiya-1980717]
 Title: Secure Access Service Edge: A Zero Trust Based Framework For Accessing Data Securely
