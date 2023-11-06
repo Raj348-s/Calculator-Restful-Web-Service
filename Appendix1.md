@@ -19,7 +19,7 @@ Affiliation(s): RWTH Aachen University, Germany
 Abstract: This PDF proposes a data sovereignty model that provides data owners with transparency about the location of their stored data and ensures sovereignty over their own data. The model includes legal regulations and technical measures that enable data owners to control what happens to design data and control where data is going. The model also includes the generation of usage licenses and their attachment to distributed data, which allows data owners to maintain control over their data and its usage. The PDF also proposes a data sovereignty graph that determines the physical location of data stored in a cloud and usage licenses to provide the data owner with control over where their data is distributed and with what rights. The graph represents a meta structure that still needs to be implemented and filled with specific information.
 Publication details: The PDF was published in the Proceedings of the 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), December 16-19, 2018, Bangkok, Thailand.
 
-# investigating the challenges faced by Cloud Computing:[Shaikh Faiz Aarzoo-1983208]
+# investigating the challenges faced by Cloud Computing:[Shaik Faaiz Aarzoo-1983208]
 Title: Security and Privacy Aspects of Cloud Computing
 
 Authors: Sajid Habib Gill et al.
